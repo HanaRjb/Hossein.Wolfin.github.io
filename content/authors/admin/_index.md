@@ -74,10 +74,10 @@ skills:
         description: ''
         percent: 80
         icon: devicon/python
-      - name: RStudio
+      - name: C++
         description: ''
         percent: 100
-        icon: devicon/rstudio
+        icon: devicon/c++
       - name: PyTorch
         description: ''
         percent: 40
